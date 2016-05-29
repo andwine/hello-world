@@ -7,3 +7,10 @@ Bye now.
 
 
 This part for backward to origianl-- It should be deleted!
+
+love you.
+
+1. Set Up Git
+https://help.github.com/articles/set-up-git/
+
+https://en.wikipedia.org/wiki/GitHub
